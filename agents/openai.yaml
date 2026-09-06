@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI落地页与前端增长设计"
+  short_description: "从定位、信息架构到转化验收，设计高质量AI产品前端增长页面"
+  default_prompt: "Use -frontend-growth-design to design a conversion-focused AI product landing page."
